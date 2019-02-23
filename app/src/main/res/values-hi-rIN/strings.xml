@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Your Local Grocery App</string>
+    <string name="background_image">Background_image</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email_address">"अपना ईमेल पता दर्ज करें "</string>
+    <string name="enter_your_password">"अपना पासवर्ड डालें "</string>
+    <string name="password">"पासवर्ड "</string>
+    <string name="remember_me">"मुझे याद रखना "</string>
+    <string name="login">Login</string>
+    <string name="create_an_account">"खाता बनाएं "</string>
+    <string name="dont_have_an_account_yet">"अब तक कोई खाता नहीं है ? "</string>
+</resources>
